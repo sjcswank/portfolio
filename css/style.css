@@ -36,6 +36,11 @@ div#projects{
     padding:20px;
 }
 
+div#projects a{
+    text-decoration: none;
+    color: #93b719;
+}
+
 div#projects-title{
     background: rgba(255, 255, 255, 0.5);
     color:#93b719;
